@@ -53,27 +53,21 @@ micronaut:
     threads: 2
     return-message: Hello World!
 ```
-## 👩‍💻 Expert
+## 👩‍💻 Developer
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://github.com/Mirellawanessa/Load-microservice/blob/main/docs/162898256.jpeg?raw=true"
-    />
-    <p>&nbsp&nbsp&nbspMirella Wanessa<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Mirellawanessa">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/_mirella.page/?next=%2F">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+  <img 
+    align="left" 
+    width="80" 
+    src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+  />
+  <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+  <a href="https://www.instagram.com/myfilearchive">Instagram</a>
+  &nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
-<p>
 
 ---
 
