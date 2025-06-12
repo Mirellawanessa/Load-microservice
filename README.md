@@ -1,8 +1,5 @@
 <p align="center"><img src="https://github.com/Mirellawanessa/Load-microservice/blob/main/docs/icon.png?raw=true" height="25%" width="25%"> </p>
 
- > ℹ️ **NOTE:** This repository was developed during a technical course on the [DIO](https://dio.me) platform.
-
-
 # Load Simulator Microservice
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jaimedantas_load-microservice&metric=alert_status)](https://sonarcloud.io/dashboard?id=jaimedantas_load-microservice)
