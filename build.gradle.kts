@@ -19,7 +19,7 @@ micronaut {
     testRuntime("junit5")
     processing {
         incremental(true)
-        annotations("com.jaimedantas.*")
+        annotations("com.mirellawanessa.*")
     }
 }
 
